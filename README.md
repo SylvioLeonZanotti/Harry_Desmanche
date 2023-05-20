@@ -10,6 +10,6 @@ https://github.com/SylvioLeonZanotti/Harry_Desmanche/assets/123652053/a74c8d42-8
 
 # Configurações e personalização
 
-Com este simples config é possível **personalizar** os peds que serão spawnados para desmanchar o veículo dos players, permissões para poder solicitar o desmanche, localizações e muito mais!
+Com este simples config é possível **personalizar** os peds que serão spawnados para desmanchar o veículo dos players, permissões para poder solicitar o desmanche, localizações e muito mais! Tudo isso de forma simples pois todas as linhas são comentadas com suas funcionalidades.
 
 ![Screenshot_10](https://github.com/SylvioLeonZanotti/Harry_Desmanche/assets/123652053/1970bc18-e7f5-42b5-83aa-a85c61ea9597)
