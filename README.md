@@ -27,6 +27,10 @@ Esta funcionalidade faz com que o player que solicitou o desmanche fique por um 
 
 # NPC realizando desmanche do veículo
 
+Os peds irão remover capô, porta-malas, portas e pneus com animações e props únicos.
+
 https://github.com/SylvioLeonZanotti/Harry_Desmanche/assets/123652053/11eb0b5e-5c58-40ea-b0a3-05e49b2d34eb
 
+Após realizado o desmanche do veículo ele será deletado do local e alterado no banco de dados da cidade o status do mesmo, o player que realizou o pedido do desmanche receberá um valor em dinheiro como forma de pagamento das peças removidas do veículo.
 
+https://github.com/SylvioLeonZanotti/Harry_Desmanche/assets/123652053/50c7a21d-1be2-47e7-8205-fc304d2826cb
