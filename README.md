@@ -14,7 +14,7 @@ Com este simples config é possível **personalizar** os peds que serão spawnad
 
 ![Screenshot_10](https://github.com/SylvioLeonZanotti/Harry_Desmanche/assets/123652053/1970bc18-e7f5-42b5-83aa-a85c61ea9597)
 
-#Sistema de procurado integrado
+# Sistema de procurado integrado
 
 Esta funcionalidade faz com que o player que solicitou o desmanche fique por um tempo determinado no sistema de procurados da cidade, com isso ele não poderá trocar de roupas, acessar suas garagens por interior para dificultar sua fuga das autoridades. Para esta função é possível customizar o tempo que este sistema ficará ativo após o desmanche ser finalizado.
 
