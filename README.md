@@ -24,3 +24,9 @@ Com este simples config é possível **personalizar** os peds que serão spawnad
 Esta funcionalidade faz com que o player que solicitou o desmanche fique por um tempo determinado no sistema de procurados da cidade, com isso ele não poderá trocar de roupas, acessar suas garagens por interior para dificultar sua fuga das autoridades. Para esta função é possível customizar o tempo que este sistema ficará ativo após o desmanche ser finalizado.
 
 ![Screenshot_11](https://github.com/SylvioLeonZanotti/Harry_Desmanche/assets/123652053/772da704-0f71-4952-8722-b55349c10bfb)
+
+# NPC realizando desmanche do veículo
+
+https://github.com/SylvioLeonZanotti/Harry_Desmanche/assets/123652053/11eb0b5e-5c58-40ea-b0a3-05e49b2d34eb
+
+
