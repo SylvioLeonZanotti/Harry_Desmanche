@@ -8,6 +8,11 @@ Basta o player ir até o local de sua escolha para receber a localização de on
 
 https://github.com/SylvioLeonZanotti/Harry_Desmanche/assets/123652053/a74c8d42-8347-42c5-84aa-19f83388f7ae
 
+Uma vez que solicitado será marcado no mapa a localização do local para o desmanche ocorrer, ja adicionado ao GPS do player para guiá-lo.
+
+![Screenshot_12](https://github.com/SylvioLeonZanotti/Harry_Desmanche/assets/123652053/ac3193ca-260e-4a1b-bc11-4437c1cec12a)
+
+
 # Configurações e personalização
 
 Com este simples config é possível **personalizar** os peds que serão spawnados para desmanchar o veículo dos players, permissões para poder solicitar o desmanche, localizações e muito mais! Tudo isso de forma simples pois todas as linhas são comentadas com suas funcionalidades.
